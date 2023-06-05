@@ -1,6 +1,7 @@
 // Write your Pizza Builder JavaScript in this file.
 
 // Constants
+//hecho en clase en grupo
 
 const basePrice = 10;             // Guardamos en una constante el precio base.
 const ingredients = {             // ingredients es un objeto que tiene unas propiedades y el valor de cada propiedad es un objeto que a su vez tiene dos keys (name y price).
